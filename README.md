@@ -2,5 +2,5 @@
 
 ### MySql
 
-1. [`docker-compose.yaml`](#)
-2. [`my.cnf`](#)
+1. [`docker-compose.yaml`](https://wzh-devin.github.io/docker-compose-conf/data/mysql/docker-compose.yaml)
+2. [`my.cnf`](https://wzh-devin.github.io/docker-compose-conf/data/mysql/my.cnf)
