@@ -3,4 +3,10 @@
 ### MySql
 
 1. [`docker-compose.yaml`](https://wzh-devin.github.io/docker-compose-conf/data/mysql/docker-compose.yaml)
+   ```bash
+   wget --no-check-certificate https://wzh-devin.github.io/docker-compose-conf/data/mysql/docker-compose.yaml
+   ```
 2. [`my.cnf`](https://wzh-devin.github.io/docker-compose-conf/data/mysql/my.cnf)
+   ```bash
+   wget --no-check-certificate https://wzh-devin.github.io/docker-compose-conf/data/mysql/my.cnf
+   ```
