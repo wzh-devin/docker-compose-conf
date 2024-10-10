@@ -10,3 +10,14 @@
    ```bash
    wget --no-check-certificate https://wzh-devin.github.io/docker-compose-conf/data/mysql/my.cnf
    ```
+
+### Redis
+
+1. [`docker-compose.yaml`](https://wzh-devin.github.io/docker-compose-conf/data/redis/docker-compose.yaml)
+   ```bash
+   wget --no-check-certificate https://wzh-devin.github.io/docker-compose-conf/data/redis/docker-compose.yaml
+   ```
+2. [`redis.conf`](https://wzh-devin.github.io/docker-compose-conf/data/redis/conf/redis.conf)
+   ```bash
+   wget --no-check-certificate https://wzh-devin.github.io/docker-compose-conf/data/redis/conf/redis.conf
+   ```
