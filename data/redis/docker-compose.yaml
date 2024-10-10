@@ -11,4 +11,4 @@ services:
       - ./data:/data
       - ./conf/redis.conf:/usr/local/etc/redis/redis.conf
       - ./logs:/logs
-    command: redis-server D:/etc/data/docker/redis/conf/redis.conf
+    command: redis-server /usr/local/etc/redis/redis.conf
